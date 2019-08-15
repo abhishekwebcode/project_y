@@ -1,0 +1,7 @@
+I stopped developing Airlock some time ago.
+
+I removed it from my website after receiving reports the widget is not fully functional in recent versions of OS X.
+
+People keep asking where it's gone, I'm tired of explaining, so now it's back. Please don't report bugs, I don't care.
+
+Enjoy!
